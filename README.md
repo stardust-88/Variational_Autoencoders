@@ -1,6 +1,6 @@
 # Variational_Autoencoders (VAEs)
 
-Pytorch implementation of Variational Autoencoders - a popular <b>deep generative probabilistic graphical model.<\b>
+Pytorch implementation of Variational Autoencoders - a popular <b>deep generative probabilistic graphical model.</b>
 <hr>
 
 ### Run:
